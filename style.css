@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Station 9 KSENT - Your source for news, music, and the streets.">
+    <title>Station 9 KSENT</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <img src="images/logo.png" alt="Station 9 KSENT Logo">
+        </div>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <section class="top-news">
+            <h1>BREAKING NEWS: BDC Leader, BDC_King, Drops a Drill Track Following Demon Turf Incident</h1>
+            <p><strong>Date:</strong> February 28, 2025</p>
+            <p><strong>Location:</strong> Online - IG Live & Street Scene</p>
+            
+            <div class="news-article">
+                <p><strong>Details:</strong> BDC leader, Zachariah (aka BDC_King), recently dropped a controversial new track, “Didn’t Wanna Shoot Em,” which has raised eyebrows in the streets. With the lyrics hinting at retaliation, many believe the song is a response to the recent death of a member of Demons Turf in Motion. The track, combined with his bold statements on Instagram Live, has sparked speculation that Zachariah may have been involved in the violent events that unfolded.</p>
+                <p>In an exclusive interview, Zachariah denied any involvement in the shooting but made a cryptic comment about people “testing” him and getting what they deserve. He also alluded to the fact that he wasn’t in a jam and that he tried to fire back, but the situation escalated too quickly. Despite his claim of innocence, fans and rival groups are questioning whether the song's lyrics are a coded message revealing more than he's letting on.</p>
+            </div>
+        </section>
+
+        <section class="other-news">
+            <h2>Other Stories</h2>
+            <ul>
+                <li><a href="#">The Rise of the Blue Devil Cripz: Inside BDC's Latest Moves</a></li>
+                <li><a href="#">Local Gang Wars Escalate: What’s Next for the Streets?</a></li>
+                <li><a href="#">Exclusive Interview with Toxic Beamz: Behind the Mask</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 Station 9 KSENT. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
